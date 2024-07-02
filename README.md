@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # **Quadcopter Drone Model in Simscape**
 Copyright 2021-2023 The MathWorks, Inc.
 
@@ -34,3 +35,6 @@ To learn more about modeling and simulation with Simscape, please visit:
    * [Simscape Fluids](https://www.mathworks.com/products/simscape-fluids.html)
    * [Simscape Multibody](https://www.mathworks.com/products/simscape-multibody.html)
 
+=======
+# multicottero-simscape
+>>>>>>> a25bc8d4f8e274d710f52a7956fc0c56cc6c1f4c
